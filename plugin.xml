@@ -1,7 +1,6 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-save-video"
-        version="0.2.5">
+        id="cordova-plugin-ios-save-video"
+        version="0.0.1">
 
     <name>SaveVideo</name>
     <description>This plugin allows you to save an video to the iOS Camera roll.</description>
