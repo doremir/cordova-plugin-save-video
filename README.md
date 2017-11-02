@@ -13,7 +13,7 @@ The plugin is based on code seen in several other existing plugins:
 Thanks to all of the above mentioned authors for sharing their code openly.
 
 ```Bash
-cordova plugin add https://github.com/anasfullstack/cordova-plugin-save-video
+cordova plugin add https://github.com/AnasFullStack/cordova-plugin-save-video.git --nofetch
 ```
 
 ## Methods
