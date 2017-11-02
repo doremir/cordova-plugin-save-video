@@ -5,7 +5,7 @@ The video file to be saved to the Library/Gallery must be available on the devic
 
 The plugin is based on code seen in several other existing plugins:
 
-1. [SaveVideo](https://github.com/quiply/SaveVideo) By (quiply)[https://github.com/quiply]
+1. [SaveVideo](https://github.com/quiply/SaveVideo) By [quiply](https://github.com/quiply)
 1. [Canvas2VideoPlugin](https://github.com/devgeeks/Canvas2VideoPlugin) by [Tommy-Carlos Williams](https://github.com/devgeeks)
 1. [ImgDownloader](https://github.com/Nomia/ImgDownloader) by [Nomia](https://github.com/Nomia)
 1. [cordova-camera-roll](https://github.com/driftyco/cordova-camera-roll) by [Max Lynch](https://github.com/mlynch)
