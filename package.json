@@ -21,8 +21,7 @@
     "ionic",
     "cordova",
     "ecosystem:cordova",
-    "cordova-ios",
-    "cordova-android"
+    "cordova-ios"
   ],
   "engines": [{
     "name": "cordova",
